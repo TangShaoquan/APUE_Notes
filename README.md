@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # APUE_Notes
-=======
 # 《UNIX环境高级编程》阅读笔记
 
 ## 缘由
@@ -13,5 +11,5 @@
 
 第二章 略
 
-第三章 文件I/O
+[第三章 文件I/O](https://github.com/TangShaoquan/APUE_Notes/blob/master/Notes/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%96%87%E4%BB%B6IO.md)
 >>>>>>> Update
